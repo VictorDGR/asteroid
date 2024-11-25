@@ -5,10 +5,10 @@ body{
 
 }
 section{
-    height: 100%; /* Aseguramos que el body y html tengan altura completa */
-    margin: 0; /* Eliminar márgenes predeterminados */
-    display: flex; /* Usamos flexbox */
-    justify-content: center; /* Alineamos horizontalmente al centro */
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
     align-items: center; 
 }
 canvas{
